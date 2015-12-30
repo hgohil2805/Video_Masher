@@ -1,10 +1,10 @@
 # Video_Masher
 #Content/structure
-*Front end 
+* Front end 
 * HTML
 * Javascript
 * Bootstrap
-*Backend/File store
+* Backend/File store
 * Java Spring/Hibernate
 * File storage (Normal)
 * Supporting tools
